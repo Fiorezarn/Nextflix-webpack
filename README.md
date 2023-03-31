@@ -6,6 +6,7 @@ Ini adalah proyek akhir untuk kursus yang mencakup penggunaan sintaks ES6, Web C
 Proyek ini adalah sebuah aplikasi web yang dibangun dengan menggunakan teknologi-teknologi berikut:
 
 * [![NPM][npm.com]][npm-url]
+* [![Webpack][webpack-img]][webpack-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![Moment][Momentjs.com]][Moment-url]
@@ -57,6 +58,9 @@ untuk memulai server.
 [Momentjs.com]: https://img.shields.io/badge/Moment.js-black?style=for-the-badge&logo=moment&logoColor=white
 [npm-url]: https://www.npmjs.com/package/moment
 [npm.com]: https://img.shields.io/npm/v/moment?style=for-the-badge&logo=npm&logoColor=white&color=green
+[webpack-url]: https://webpack.js.org/
+[webpack-img]: https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black
+
 
 
 
