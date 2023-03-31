@@ -12,7 +12,6 @@ Proyek ini adalah sebuah aplikasi web yang dibangun dengan menggunakan teknologi
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![Moment][Momentjs.com]][Moment-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Proyek ini akan dinilai berdasarkan kriteria-kriteria berikut:
 - Menerapkan tampilan aplikasi yang menarik:
