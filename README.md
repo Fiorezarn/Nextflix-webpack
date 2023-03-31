@@ -61,7 +61,7 @@ untuk memulai server.
 [npm.com]: https://img.shields.io/npm/v/moment?style=for-the-badge&logo=npm&logoColor=white&color=green
 [webpack-url]: https://webpack.js.org/
 [webpack-img]: https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black
-[es6-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[es6-url]: http://es6-features.org/#Constants
 [es6-img]: https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
 
