@@ -5,6 +5,7 @@ Ini adalah proyek akhir untuk kursus yang mencakup penggunaan sintaks ES6, Web C
 
 Proyek ini adalah sebuah aplikasi web yang dibangun dengan menggunakan teknologi-teknologi berikut:
 
+* [![ES6][es6.com]][es6-url]
 * [![NPM][npm.com]][npm-url]
 * [![Webpack][webpack-img]][webpack-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
@@ -60,6 +61,8 @@ untuk memulai server.
 [npm.com]: https://img.shields.io/npm/v/moment?style=for-the-badge&logo=npm&logoColor=white&color=green
 [webpack-url]: https://webpack.js.org/
 [webpack-img]: https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black
+[es6-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[es6-img]: https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
 
 
