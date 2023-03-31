@@ -3,10 +3,17 @@ Ini adalah proyek akhir untuk kursus yang mencakup penggunaan sintaks ES6, Web C
 
 ## Deskripsi Aplikasi
 Proyek ini adalah sebuah aplikasi web yang dibangun dengan menggunakan teknologi-teknologi berikut:
-*[![Moment][momentjs.com]][Bootstrap-url]
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## Proyek ini akan dinilai berdasarkan kriteria-kriteria berikut:
 - Menerapkan tampilan aplikasi yang menarik:
 - Menggunakan package pihak ke-3 yang di-install melalui package manager (bukan CDN), contohnya:
