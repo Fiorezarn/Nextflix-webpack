@@ -5,9 +5,9 @@ Ini adalah proyek akhir untuk kursus yang mencakup penggunaan sintaks ES6, Web C
 
 Proyek ini adalah sebuah aplikasi web yang dibangun dengan menggunakan teknologi-teknologi berikut:
 
-* [![Moment][Momentjs.com]][Moment-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+* [![Moment][Momentjs.com]][Moment-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
