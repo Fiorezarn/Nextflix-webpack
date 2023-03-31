@@ -5,7 +5,7 @@ Ini adalah proyek akhir untuk kursus yang mencakup penggunaan sintaks ES6, Web C
 
 Proyek ini adalah sebuah aplikasi web yang dibangun dengan menggunakan teknologi-teknologi berikut:
 
-* [![ES6][es6.com]][es6-url]
+* [![ES6][es6.img]][es6-url]
 * [![NPM][npm.com]][npm-url]
 * [![Webpack][webpack-img]][webpack-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
