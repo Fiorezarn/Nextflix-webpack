@@ -2,14 +2,10 @@
 Ini adalah proyek akhir untuk kursus yang mencakup penggunaan sintaks ES6, Web Components, Package Manager, Module Bundler, dan Asynchronous JavaScript Request menggunakan XHR dan Fetch.
 
 ## Deskripsi Aplikasi
-Proyek ini adalah sebuah aplikasi web yang dibangun dengan menggunakan teknologi-teknologi tersebut di atas. Aplikasi ini harus dapat memenuhi kriteria berikut:
-
-- Menggunakan standar ES6 sintaks dalam menuliskan kode JavaScript pada proyek yang dibuat.
-- Terdapat minimal satu penerapan custom element.
-- Menggunakan Webpack sebagai module bundler (tahap produksi).
-- Memanfaatkan Webpack sebagai environment dalam pengembangan proyek (tahap development).
-- Memanfaatkan API dengan menggunakan konsep AJAX dalam menampilkan data yang dinamis pada aplikasi yang dibuat.
-- Anda bebas menentukkan tema aplikasi yang ingin dibuat, terkecuali tema Club Finder/Pencarian Klub Olahraga, Sepak Bola, atau Dicoding Books.
+Proyek ini adalah sebuah aplikasi web yang dibangun dengan menggunakan teknologi-teknologi berikut:
+*[![Moment][momentjs.com]][Bootstrap-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 ## Proyek ini akan dinilai berdasarkan kriteria-kriteria berikut:
 - Menerapkan tampilan aplikasi yang menarik:
