@@ -14,7 +14,7 @@ Proyek ini adalah sebuah aplikasi web yang dibangun dengan menggunakan teknologi
 
 
 ## Proyek ini akan dinilai berdasarkan kriteria-kriteria berikut:
-- Menerapkan tampilan aplikasi yang menarik:
+- Menerapkan tampilan aplikasi yang menarik
 - Menggunakan package pihak ke-3 yang di-install melalui package manager (bukan CDN), contohnya:
 - Menuliskan kode dengan bersih dan konsisten. Anda bisa memanfaatkan Linter seperti ESLint dalam menjaga gaya penulisan kode.
 - Bereksplorasi pada penerapan webpack.
